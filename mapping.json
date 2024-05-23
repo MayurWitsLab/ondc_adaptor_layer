@@ -1,0 +1,11 @@
+{
+    "Item": {
+        "myId": "id",
+        "myName": "descriptor.name",
+        "myPrice": "price.value"
+    },
+    "Quote": {
+        "myQuoteId": "quoteId",
+        "myAmount": "amount"
+    }
+}

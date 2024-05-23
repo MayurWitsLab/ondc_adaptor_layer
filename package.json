@@ -1,0 +1,23 @@
+{
+    "name": "beckn-lib",
+    "version": "1.0.0",
+    "description": "Beckn library for transforming, validating, and handling Beckn protocol data",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "jest"
+    },
+    "dependencies": {
+        "ajv": "^8.0.0",
+        "axios": "^0.21.1",
+        "lodash": "^4.17.21",
+        "yaml": "^1.10.2"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.17.4",
+        "@types/node": "^14.18.63",
+        "typescript": "^4.2.4"
+    },
+    "author": "Tanya Madan",
+    "license": "MIT"
+}

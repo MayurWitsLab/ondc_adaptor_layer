@@ -1,0 +1,2 @@
+schemaPath: './beckn_openapi.yaml'
+mappingPath: './mapping.json'
